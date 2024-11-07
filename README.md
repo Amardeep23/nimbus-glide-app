@@ -30,6 +30,8 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-## OTHER REPO CONNECTED TO THIS PROJECT
+## OTHER REPOSITORIES CONNECTED TO THIS PROJECT
 API-SERVER   [https://github.com/Amardeep23/nimbus-glide-api-server](url)
+PROXY-SERVER [https://github.com/Amardeep23/nimbus-glide-proxy-server](url)
+BUILD SERVER [https://github.com/Amardeep23/nimbus-glide-build-server](url)
 
