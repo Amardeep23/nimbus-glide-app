@@ -32,6 +32,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## OTHER REPOSITORIES CONNECTED TO THIS PROJECT
 API-SERVER   [https://github.com/Amardeep23/nimbus-glide-api-server](url)
+
 PROXY-SERVER [https://github.com/Amardeep23/nimbus-glide-proxy-server](url)
+
 BUILD SERVER [https://github.com/Amardeep23/nimbus-glide-build-server](url)
+
 
