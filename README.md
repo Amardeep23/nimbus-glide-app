@@ -1,3 +1,14 @@
+
+## OTHER REPOSITORIES CONNECTED TO THIS PROJECT
+API-SERVER   [https://github.com/Amardeep23/nimbus-glide-api-server](url)
+
+PROXY-SERVER [https://github.com/Amardeep23/nimbus-glide-proxy-server](url)
+
+BUILD SERVER [https://github.com/Amardeep23/nimbus-glide-build-server](url)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -28,13 +39,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-## OTHER REPOSITORIES CONNECTED TO THIS PROJECT
-API-SERVER   [https://github.com/Amardeep23/nimbus-glide-api-server](url)
-
-PROXY-SERVER [https://github.com/Amardeep23/nimbus-glide-proxy-server](url)
-
-BUILD SERVER [https://github.com/Amardeep23/nimbus-glide-build-server](url)
 
 
